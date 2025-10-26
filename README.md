@@ -1,4 +1,4 @@
-# Redefining-separate-or-integrated-food-waste-and-wastewater-streams-for-global-cities
+# Redefining separate or integrated food waste and wastewater streams for 29 large cities
 # Urban Biowaste Flux (UBF) Model — README
 
 ## Overview
