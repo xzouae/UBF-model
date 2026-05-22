@@ -51,3 +51,4 @@ Steps:
 - File: UBF model.xlsm (enable macros for full functionality).
 - Some outputs are large; calculations may take time depending on your machine.
 - If you modify parameters or add cities, re-run the relevant buttons to refresh results.
+- Please refer: https://www.nature.com/articles/s44284-025-00341-8
